@@ -34,10 +34,19 @@ a:active{
 	text-align: center;
 }
 
-
+.top p{
+	text-align: center;
+	font-size: 45px;
+	margin: 0;
+	font-weight: bold;
+}
 .program{
 	margin: 30px;
 	line-height: 50px;
+}
+.program p{
+	font-weight: bold;
+	font-size: 25px;
 }
 
 .content{
