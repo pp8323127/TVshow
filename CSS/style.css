@@ -1,0 +1,48 @@
+html{
+	font-family: "微軟正黑體","Microsoft JhengHei", Helvtica !important;
+}
+
+/* 超連結 */
+/* 未連結 */
+a:link{
+    color: #0082ee;
+    text-decoration: none !important;
+    text-shadow:none !important;
+}
+/* 已連結過 */
+a:visited{
+    color: #0082ee;
+    text-decoration: none !important;
+    text-shadow:none !important;
+}
+/* 滑鼠移至連結 */
+a:hover{
+    color: #f55;
+    text-decoration: none !important;
+    text-shadow:none !important;
+}
+/* 選擇的連結 */
+a:active{
+    color: #025294;
+    text-decoration: none !important;
+    text-shadow:none !important;
+}
+
+.left{
+	margin: 30px;
+	line-height: 30px;
+	text-align: center;
+}
+
+
+.program{
+	margin: 30px;
+	line-height: 50px;
+}
+
+.content{
+	line-height: 30px;
+}
+.content p{
+	text-indent: 36px;
+}
