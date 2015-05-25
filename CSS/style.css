@@ -46,3 +46,7 @@ a:active{
 .content p{
 	text-indent: 36px;
 }
+.content_table table{
+	border-spacing: 20px;
+	line-height: 30px;
+}
