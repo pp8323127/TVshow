@@ -5,10 +5,18 @@
 	<title>Document</title>
 	<meta name="copyright" content="Copyright 2015, Yun-Hao Design."> 
 	<link rel="stylesheet" type="text/css" href="CSS/style.css">
+
+	<script type="text/javascript">
+$(“#uploadFile”).change(function() {
+   alert(this.files);
+});
+	</script>
 </head>
 <body>
 	<div class="top" style="margin-top: 100px;">
 		<p>瘋 TV SHOW</p>
 	</div>
+	<input type="file" id="uploadFile">
+
 </body>
 </html>
