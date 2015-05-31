@@ -28,10 +28,8 @@ a:active{
     text-shadow:none !important;
 }
 
-.left{
-	margin: 30px;
-	line-height: 30px;
-	text-align: center;
+.top{
+	background-color: red;
 }
 
 .top p{
@@ -39,6 +37,16 @@ a:active{
 	font-size: 45px;
 	margin: 0;
 	font-weight: bold;
+}
+
+.left{
+	padding: 30px;
+	line-height: 30px;
+	text-align: center;
+	background-color: orange;
+}
+.right{
+	background-color: yellow;
 }
 
 .program{
