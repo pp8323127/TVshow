@@ -41,6 +41,12 @@ a:active{
 	text-align: center;
 }
 
+.right div{
+	text-align: center;
+}
+.state div, .state h2{
+	text-align: center;
+}
 .program{
 	margin: 30px;
 	line-height: 50px;
